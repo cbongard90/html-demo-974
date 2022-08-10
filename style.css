@@ -27,7 +27,7 @@ img {
   border-radius: 50px;
 }
 
-div {
+.container {
   width: 500px;
   margin: 0 auto;
   padding: 30px;
